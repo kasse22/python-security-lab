@@ -1,0 +1,5 @@
+# No external dependencies
+# Uses Python standard library:
+# socket
+# json
+# os
